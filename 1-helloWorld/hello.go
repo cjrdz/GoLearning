@@ -1,7 +1,7 @@
 // This is the main package
 package main
 // Importing the fmt and quote packages
-import "fmt"
+import ("fmt")
 import "rsc.io/quote"
 
 // The main function

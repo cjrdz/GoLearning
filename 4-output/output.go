@@ -1,7 +1,7 @@
 // Declaring main package
 package main
-// Importing fmt package
-import "fmt"
+// Importing the fmt package
+import ("fmt")
 
 // Declaring ij function
 func ij() {
